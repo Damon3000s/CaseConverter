@@ -1,6 +1,7 @@
-## v1.3.11 (patch)
+## v1.3.12 (patch)
 
-Changes since v1.3.10:
+Changes since v1.3.11:
 
-- Refactor permissions in dotnet.yml for minimal access; add SonarLint configuration in settings.json ([@matt-edmondson](https://github.com/matt-edmondson))
+- Merge remote-tracking branch 'refs/remotes/origin/main' ([@ktsu[bot]](https://github.com/ktsu[bot]))
+- Sync .github\workflows\dotnet.yml ([@ktsu[bot]](https://github.com/ktsu[bot]))
 
