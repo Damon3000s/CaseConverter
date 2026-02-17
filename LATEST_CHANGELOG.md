@@ -1,4 +1,6 @@
-## v1.3.12
+## v1.3.13-pre.1 (prerelease)
 
-No significant changes detected since v1.3.12.
+Changes since v1.3.12:
+
+- Sync .github\workflows\dotnet.yml ([@KtsuTools](https://github.com/KtsuTools))
 
